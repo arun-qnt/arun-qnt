@@ -246,9 +246,9 @@
 
 <br/>
 
-### 📈 GitHub Analytics & Activity
 
-<div align="center">
+<!-- <div align="center">
+### 📈 GitHub Analytics & Activity
   <table border="0" cellspacing="0" cellpadding="10">
     <tr>
       <td align="center" valign="middle">
@@ -264,7 +264,7 @@
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 <br/>
 
