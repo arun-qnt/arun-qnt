@@ -111,7 +111,7 @@
 
 <div align="center">
   <br/>
-  <img src="https://skillicons.dev/icons?i=vue,vuetify,nuxtjs,go,mysql,dynamodb,aws,git,github,vscode,linux&theme=dark&perline=11" alt="Tech Icons" />
+  <img src="https://skillicons.dev/icons?i=servicenow,vue,vuetify,nuxtjs,go,mysql,dynamodb,aws,git,github,vscode,linux&theme=dark&perline=11" alt="Tech Icons" />
   <br/><br/>
 </div>
 
